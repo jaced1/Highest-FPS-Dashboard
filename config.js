@@ -6,22 +6,22 @@
 
 const CONFIG = {
     // --- Bot Details ---
-    botName: "JulesBot",
+    botName: "HighestFPS",
     botTagline: "The Ultimate All-in-One Discord Management & Music Bot",
     botDescription: "Elevate your Discord community with high-performance moderation, crystal-clear 4K audio playback, custom economy, and automated role management.",
     botAvatar: "https://cdn.discordapp.com/embed/avatars/0.png", // Replace with your bot avatar URL
     
     // --- Links & Integration ---
-    inviteLink: "https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&scope=bot&permissions=8",
-    supportServerLink: "https://discord.gg/julesfx",
+    inviteLink: "https://discord.com/oauth2/authorize?client_id=1566629834707443772&permissions=8&integration_type=0&scope=applications.commands+bot",
+    supportServerLink: "https://discord.gg/xywqrzdfQ3",
     websiteLink: "https://store.julesfx.com",
     githubLink: "https://github.com/Veqris/discord-bot-dashboard",
 
     // --- Live Statistics Counter ---
     stats: {
-        servers: 1450,       // Total active Discord servers
-        users: 485000,       // Total members reached
-        commands: 2150000,   // Total commands executed
+        servers: 1,       // Total active Discord servers
+        users: 1,       // Total members reached
+        commands: 0,   // Total commands executed
         uptime: "99.98%"     // Bot uptime percentage
     },
 
